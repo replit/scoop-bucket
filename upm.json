@@ -1,19 +1,19 @@
 {
-    "version": "0.26",
+    "version": "0.27",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/replit/upm/releases/download/v0.26/upm_0.26_windows_386.tar.gz",
+            "url": "https://github.com/replit/upm/releases/download/v0.27/upm_0.27_windows_386.tar.gz",
             "bin": [
                 "upm.exe"
             ],
-            "hash": "cd307be753aadffbff5e2bf105fd219de1474ca52e4d6c094c8781c86a2af8bf"
+            "hash": "16499f776db732840521aaa50d97bdc1dce7aee25300abdbd178d00cde9694b4"
         },
         "64bit": {
-            "url": "https://github.com/replit/upm/releases/download/v0.26/upm_0.26_windows_amd64.tar.gz",
+            "url": "https://github.com/replit/upm/releases/download/v0.27/upm_0.27_windows_amd64.tar.gz",
             "bin": [
                 "upm.exe"
             ],
-            "hash": "1e175c5fe42d45008905f5271a084c170b2466911c1d83e533ff5909d59ca3fd"
+            "hash": "2d8b5bdaadffa146c0f01ea34f8e40c3192c9469375f9e1ad458032a50535804"
         }
     },
     "homepage": "https://github.com/replit/upm",
